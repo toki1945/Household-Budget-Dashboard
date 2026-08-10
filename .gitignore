@@ -1,1 +1,4 @@
 *cache*
+.venv
+.env
+*.csv
