@@ -1,0 +1,7 @@
+[server]
+# CSVアップロードの上限（MB）。Money ForwardのCSVなら十分な値
+maxUploadSize = 50
+
+[browser]
+# 利用統計の送信を無効化（任意）
+gatherUsageStats = false

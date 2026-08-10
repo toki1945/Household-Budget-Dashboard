@@ -1,0 +1,5 @@
+# width="stretch" / st.context.theme を使うため新しめのStreamlitを要求
+streamlit>=1.49
+pandas>=2.0
+numpy>=1.26
+plotly>=5.18
