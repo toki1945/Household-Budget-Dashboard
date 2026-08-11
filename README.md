@@ -1,5 +1,7 @@
 # 家計簿ビューア
 
+🔗 **アプリを開く: https://household-budget-dashboard.streamlit.app/**
+
 Money ForwardのエクスポートCSVをアップロードして、月別の累積額・分類別の内訳・支出予測を確認できるStreamlitアプリです。
 
 ## 使い方
